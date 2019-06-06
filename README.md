@@ -1,2 +1,3 @@
-# mazerunner
-Maze exploration using the Allcode Microchip PIC robot
+# Mazerunner
+
+This is a school project that makes use of the Allcode Microchip PIC Robot to explore a 4x4 grid-based maze. It uses an entirely reactive system with minimal code using the left hand rule for exploration. The robot explores the maze until all of the 16 cells have been visited and subsequently explores until it finds the nest. This nest is a piece of cardboard placed above one of the cells. Unfortunately, the built-up model of the maze is not utilised due to time constraints, meaning that finding the nest is simply more exploration and not a case of navigation. For more information, see the writeup.
